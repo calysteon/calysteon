@@ -1,10 +1,4 @@
-# Nathaniel Oh ( @calysteon ) — Vulnerability Portfolio
-
-## CVE List
-
-## CVE List
-
-## CVE List
+# CVE List
 
 | CVE | Vendor | CWE | Reference |
 |---|---|---|---|
@@ -25,18 +19,7 @@
 
 ---
 
-## Acknowledgements (No CVE)
-
-| Vendor | Platform / Release | Component(s) | Reference |
-|---|---|---|---|
-| Apple | iOS / iPadOS 26
-
-
-> Tip: For the WordPress rows, you can link each to its Wordfence or CVE/NVD page when you’re ready.
-
----
-
-## Acknowledgements (No CVE)
+# Acknowledgements
 
 | Vendor | Platform / Release | Component(s) | Reference |
 |---|---|---|---|
@@ -49,7 +32,3 @@
 | Apple | visionOS 26 | **darwinOS** | [125115](https://support.apple.com/en-us/125115) |
 | Apple | watchOS 26 | **darwinOS**, **libc**, **libpthread**, **libxml2** | [125116](https://support.apple.com/en-us/125116) |
 
----
-
-### Researcher Pages
-- Wordfence researcher index: *Nathaniel Oh (Calysteon)* — add link when ready.

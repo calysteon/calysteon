@@ -4,22 +4,24 @@
 
 ## CVE List
 
-| CVE | Vendor | Platform | CWE | Reference |
-|---|---|---|---|---|
-| **CVE-2025-43299** | Apple | iOS / iPadOS / macOS | **CWE-20** (Improper Input Validation) | [125109](https://support.apple.com/en-us/125109), [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
-| **CVE-2025-43295** | Apple | iOS / iPadOS / macOS | **CWE-20** (Improper Input Validation) | [125109](https://support.apple.com/en-us/125109), [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
-| **CVE-2025-43353** | Apple | macOS | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
-| **CVE-2025-53623** | Shopify | — | **CWE-78** (OS Command Injection) | — |
-| **CVE-2025-43577** | Adobe | Windows / macOS | **CWE-416** (Use-After-Free) | — |
-| **CVE-2024-13334** | WordPress | WordPress | **CWE-79** (Reflected XSS) | — |
-| **CVE-2024-10813** | WordPress | WordPress | **CWE-200** (Information Exposure) | — |
-| **CVE-2024-10792** | WordPress | WordPress | **CWE-79** (Reflected XSS) | — |
-| **CVE-2024-0848** | WordPress | WordPress | **CWE-79** (Reflected XSS) | — |
-| **CVE-2024-0847** | WordPress | WordPress | **CWE-352** (CSRF) | — |
-| **CVE-2024-1780** | WordPress | WordPress | **CWE-79** (Reflected XSS) | — |
-| **CVE-2024-1782** | WordPress | WordPress | **CWE-79** (Reflected XSS) | — |
-| **CVE-2024-0708** | WordPress | WordPress | **CWE-200** (Information Exposure) | — |
-| **CVE-2024-0859** | WordPress | WordPress | **CWE-352** (CSRF) | — |
+## CVE List
+
+| CVE | Vendor | CWE | Reference |
+|---|---|---|---|
+| **CVE-2025-53623** | — | **CWE-78** (OS Command Injection) | — |
+| **CVE-2025-43577** | Adobe | **CWE-416** (Use-After-Free) | — |
+| **CVE-2025-43299** | Apple | **CWE-20** (Improper Input Validation) | [125109](https://support.apple.com/en-us/125109), [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
+| **CVE-2025-43295** | Apple | **CWE-20** (Improper Input Validation) | [125109](https://support.apple.com/en-us/125109), [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
+| **CVE-2025-43353** | Apple | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) |
+| **CVE-2024-13334** | WordPress | **CWE-79** (Reflected XSS) | — |
+| **CVE-2024-10813** | WordPress | **CWE-200** (Information Exposure) | — |
+| **CVE-2024-10792** | WordPress | **CWE-79** (Reflected XSS) | — |
+| **CVE-2024-0848** | WordPress | **CWE-79** (Reflected XSS) | — |
+| **CVE-2024-0847** | WordPress | **CWE-352** (CSRF) | — |
+| **CVE-2024-1780** | WordPress | **CWE-79** (Reflected XSS) | — |
+| **CVE-2024-1782** | WordPress | **CWE-79** (Reflected XSS) | — |
+| **CVE-2024-0708** | WordPress | **CWE-200** (Information Exposure) | — |
+| **CVE-2024-0859** | WordPress | **CWE-352** (CSRF) | — |
 
 ---
 

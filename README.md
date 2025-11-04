@@ -2,6 +2,8 @@
 
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
+| **CVE-2025-43505** | Apple | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125641](https://support.apple.com/en-us/125641) | - |
+| **CVE-2025-43504** | Apple | **CWE-121** (Stack-based Buffer Overflow) | [125641](https://support.apple.com/en-us/125641) | - |
 | **CVE-2025-43375** | Apple | **CWE-20** (Improper Input Validation) | [125117](https://support.apple.com/en-us/125117) | — |
 | **CVE-2025-43370** | Apple | **CWE-20** (Improper Input Validation) | [125117](https://support.apple.com/en-us/125117) | — |
 | **CVE-2025-43299** | Apple | **CWE-20** (Improper Input Validation) | [125109](https://support.apple.com/en-us/125109), [125110](https://support.apple.com/en-us/125110), [125111](https://support.apple.com/en-us/125111), [125112](https://support.apple.com/en-us/125112) | — |

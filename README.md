@@ -27,6 +27,7 @@
 
 | Vendor | Platform / Release | Component(s) | Reference |
 |---|---|---|---|
+| Apple | macOS Tahoe 26.2 | **FileVault** | [125886](https://support.apple.com/en-us/125886) | 
 | Apple | iOS / iPadOS 26 | **darwinOS**, **libc**, **libpthread**, **libxml2** | [125108](https://support.apple.com/en-us/125108) |
 | Apple | iOS / iPadOS 18.7 | **libpthread**, **libxml2** | [125109](https://support.apple.com/en-us/125109) |
 | Apple | macOS Tahoe 26 | **AMD**, **Core Bluetooth**, **CoreMedia** , **darwinOS**, **libc**, **libedit**, **libpthread**, **libxml2** | [125110](https://support.apple.com/en-us/125110) |

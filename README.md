@@ -2,6 +2,7 @@
 
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
+| **CVE-2026-20652** | Apple | **CWE-191** (Integer underflow) | TBD | - |
 | **CVE-2025-43505** | Apple | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125641](https://support.apple.com/en-us/125641) | - |
 | **CVE-2025-43504** | Apple | **CWE-121** (Stack-based Buffer Overflow) | [125641](https://support.apple.com/en-us/125641) | [True](https://objective-see.org/blog/blog_0x83.html) |
 | **CVE-2025-43375** | Apple | **CWE-20** (Improper Input Validation) | [125117](https://support.apple.com/en-us/125117) | — |

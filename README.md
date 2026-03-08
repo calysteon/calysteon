@@ -1,8 +1,8 @@
 # CVE List
-
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
-| **CVE-2026-20652** | Apple | **CWE-191** (Integer underflow) | TBD | - |
+| **CVE-2026-27820** | Ruby | **CWE-122** (Heap-based Buffer Overflow) | [ruby-lang.org](https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820/) | - |
+| **CVE-2026-20652** | Apple | **CWE-191** (Integer Underflow) | [126354](https://support.apple.com/en-us/126354) | - |
 | **CVE-2025-43505** | Apple | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125641](https://support.apple.com/en-us/125641) | - |
 | **CVE-2025-43504** | Apple | **CWE-121** (Stack-based Buffer Overflow) | [125641](https://support.apple.com/en-us/125641) | [True](https://objective-see.org/blog/blog_0x83.html) |
 | **CVE-2025-43375** | Apple | **CWE-20** (Improper Input Validation) | [125117](https://support.apple.com/en-us/125117) | — |
@@ -21,11 +21,8 @@
 | **CVE-2024-1782** | WordPress | **CWE-79** (Reflected XSS) | — | — |
 | **CVE-2024-0708** | WordPress | **CWE-200** (Information Exposure) | — | — |
 | **CVE-2024-0859** | WordPress | **CWE-352** (CSRF) | — | — |
-
 ---
-
 # Acknowledgements
-
 | Vendor | Platform / Release | Component(s) | Reference |
 |---|---|---|---|
 | Apple | macOS Tahoe 26.2 | **FileVault** | [125886](https://support.apple.com/en-us/125886) | 
@@ -37,4 +34,3 @@
 | Apple | tvOS 26 | **darwinOS**, **libc**, **libpthread**, **libxml2** | [125114](https://support.apple.com/en-us/125114) |
 | Apple | visionOS 26 | **darwinOS** | [125115](https://support.apple.com/en-us/125115) |
 | Apple | watchOS 26 | **darwinOS**, **libc**, **libpthread**, **libxml2** | [125116](https://support.apple.com/en-us/125116) |
-

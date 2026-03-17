@@ -1,6 +1,9 @@
+
 # CVE List
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
+| **CVE-2026-28890** | Apple | TBD | TBD | - | 
+| **CVE-2026-28857** | Apple | TBD | TBD | - | 
 | **CVE-2026-27820** | Ruby | **CWE-122** (Heap-based Buffer Overflow) | [ruby-lang.org](https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820/) | - |
 | **CVE-2026-20652** | Apple | **CWE-191** (Integer Underflow) | [126354](https://support.apple.com/en-us/126354) | - |
 | **CVE-2025-43505** | Apple | **CWE-787** (Out-of-Bounds Write / Heap Corruption) | [125641](https://support.apple.com/en-us/125641) | - |
@@ -21,7 +24,9 @@
 | **CVE-2024-1782** | WordPress | **CWE-79** (Reflected XSS) | — | — |
 | **CVE-2024-0708** | WordPress | **CWE-200** (Information Exposure) | — | — |
 | **CVE-2024-0859** | WordPress | **CWE-352** (CSRF) | — | — |
+
 ---
+
 # Acknowledgements
 | Vendor | Platform / Release | Component(s) | Reference |
 |---|---|---|---|

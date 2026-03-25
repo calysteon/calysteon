@@ -2,7 +2,7 @@
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
 | **CVE-2026-28890** | Apple | **CWE-125** (Out-of-Bounds Read) | [126801](https://support.apple.com/en-us/126801) | - |
-| **CVE-2026-28857** | Apple | TBD | [126792](https://support.apple.com/en-us/126792), [126794](https://support.apple.com/en-us/126794), [126799](https://support.apple.com/en-us/126799), [126800](https://support.apple.com/en-us/126800) | - |
+| **CVE-2026-28857** | Apple | **CWE-122** (Heap-based Buffer Overflow) | [126792](https://support.apple.com/en-us/126792), [126794](https://support.apple.com/en-us/126794), [126799](https://support.apple.com/en-us/126799), [126800](https://support.apple.com/en-us/126800) | - |
 | **CVE-2026-28845** | Apple | **CWE-862** (Missing Authorization) | [126794](https://support.apple.com/en-us/126794) | - |
 | **CVE-2026-27820** | Ruby | **CWE-122** (Heap-based Buffer Overflow) | [ruby-lang.org](https://www.ruby-lang.org/en/news/2026/03/05/buffer-overflow-zlib-cve-2026-27820/) | - |
 | **CVE-2026-20652** | Apple | **CWE-191** (Integer Underflow) | [126354](https://support.apple.com/en-us/126354) | - |

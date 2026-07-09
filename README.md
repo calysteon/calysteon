@@ -45,3 +45,4 @@
 |Apple |tvOS 26           |**darwinOS**, **libc**, **libpthread**, **libxml2**                                                         |[125114](https://support.apple.com/en-us/125114)|
 |Apple |visionOS 26       |**darwinOS**                                                                                                |[125115](https://support.apple.com/en-us/125115)|
 |Apple |watchOS 26        |**darwinOS**, **libc**, **libpthread**, **libxml2**                                                         |[125116](https://support.apple.com/en-us/125116)|
+| Apple | Web Server / February 2026 | **Apple Web Services** | [102774](https://support.apple.com/en-us/102774) |

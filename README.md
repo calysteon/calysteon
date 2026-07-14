@@ -2,7 +2,7 @@
 
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
-| **CVE-2026-43740** | Apple | **CWE-200** (Information Exposure) | [127594](https://support.apple.com/en-us/127594), [127595](https://support.apple.com/en-us/127595), [127685](https://support.apple.com/en-us/127685) | [Calysteon Corner](https://calysteon.github.io/cve/CVE-2026-43740.html) |
+| **CVE-2026-43740** | Apple | **CWE-200** (Information Exposure) | [127594](https://support.apple.com/en-us/127594), [127595](https://support.apple.com/en-us/127595), [127685](https://support.apple.com/en-us/127685) | - |
 | **CVE-2026-48583** | Microsoft | **CWE-269** (Improper Privilege Management) | [MSRC](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-48583) | - |
 | **CVE-2026-8525** | Google | **CWE-122** (Heap-based Buffer Overflow) | [497928952](https://issues.chromium.org/issues/497928952), [Chrome Releases](https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html) | - |
 | **CVE-2026-43654** | Apple | **CWE-200** (Information Exposure) | [127110](https://support.apple.com/en-us/127110), [127111](https://support.apple.com/en-us/127111), [127115](https://support.apple.com/en-us/127115), [127116](https://support.apple.com/en-us/127116), [127117](https://support.apple.com/en-us/127117), [127118](https://support.apple.com/en-us/127118), [127119](https://support.apple.com/en-us/127119), [127120](https://support.apple.com/en-us/127120) | [Calysteon Corner](https://calysteon.github.io/cve/CVE-2026-43654.html) |

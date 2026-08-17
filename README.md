@@ -3,7 +3,7 @@
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
 | **CVE-2026-64698** | Apple | **CWE-125** (Out-of-Bounds Read) | [128067](https://support.apple.com/en-us/128067), [128071](https://support.apple.com/en-us/128071), [128072](https://support.apple.com/en-us/128072) | - |
-| **CVE-2026-64738** | Apple | **CWE-862** (Missing Authorization) | [128067](https://support.apple.com/en-us/128067), [128071](https://support.apple.com/en-us/128071), [128072](https://support.apple.com/en-us/128072) | - |
+| **CVE-2026-64738** | Apple | **CWE-862** (Missing Authorization) | [128067](https://support.apple.com/en-us/128067), [128071](https://support.apple.com/en-us/128071), [128072](https://support.apple.com/en-us/128072), [148287](https://support.apple.com/en-us/148287) | - |
 | **CVE-2026-43740** | Apple | **CWE-200** (Information Exposure) | [127594](https://support.apple.com/en-us/127594), [127595](https://support.apple.com/en-us/127595), [127685](https://support.apple.com/en-us/127685), [128066](https://support.apple.com/en-us/128066), [128067](https://support.apple.com/en-us/128067), [128068](https://support.apple.com/en-us/128068), [128069](https://support.apple.com/en-us/128069), [128070](https://support.apple.com/en-us/128070), [128073](https://support.apple.com/en-us/128073) | - |
 | **CVE-2026-48583** | Microsoft | **CWE-269** (Improper Privilege Management) | [MSRC](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-48583) | - |
 | **CVE-2026-8525** | Google | **CWE-122** (Heap-based Buffer Overflow) | [497928952](https://issues.chromium.org/issues/497928952), [Chrome Releases](https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html) | - |

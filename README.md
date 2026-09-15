@@ -2,6 +2,14 @@
 
 | CVE | Vendor | CWE | Reference | Writeup |
 |---|---|---|---|---|
+| **CVE-2026-84628** | Apple | **CWE-862** (Missing Authorization) | [149034](https://support.apple.com/en-us/149034), [149035](https://support.apple.com/en-us/149035), [149036](https://support.apple.com/en-us/149036), [149037](https://support.apple.com/en-us/149037), [149038](https://support.apple.com/en-us/149038) | - |
+| **CVE-2026-84611** | Apple | **CWE-787** (Out-of-Bounds Write) | [149034](https://support.apple.com/en-us/149034), [149035](https://support.apple.com/en-us/149035), [149036](https://support.apple.com/en-us/149036), [149037](https://support.apple.com/en-us/149037), [149038](https://support.apple.com/en-us/149038), [149041](https://support.apple.com/en-us/149041), [149042](https://support.apple.com/en-us/149042), [149043](https://support.apple.com/en-us/149043) | - |
+| **CVE-2026-84588** | Apple | **CWE-787** (Out-of-Bounds Write / Kernel Memory Corruption) | [149035](https://support.apple.com/en-us/149035) | - |
+| **CVE-2026-84565** | Apple | **CWE-125** (Out-of-Bounds Read) | [149035](https://support.apple.com/en-us/149035), [149042](https://support.apple.com/en-us/149042), [149043](https://support.apple.com/en-us/149043) | - |
+| **CVE-2026-84514** | Apple | **CWE-862** (Missing Authorization) | [149035](https://support.apple.com/en-us/149035), [149042](https://support.apple.com/en-us/149042), [149043](https://support.apple.com/en-us/149043) | - |
+| **CVE-2026-65362** | Apple | **CWE-862** (Missing Authorization) | [149035](https://support.apple.com/en-us/149035), [149042](https://support.apple.com/en-us/149042), [149043](https://support.apple.com/en-us/149043) | - |
+| **CVE-2026-43702** | Apple | **CWE-415** (Double Free) | [149041](https://support.apple.com/en-us/149041) | - |
+| **CVE-2026-43683** | Apple | **CWE-125** (Out-of-Bounds Read) | [149035](https://support.apple.com/en-us/149035), [149042](https://support.apple.com/en-us/149042) | - |
 | **CVE-2026-64698** | Apple | **CWE-125** (Out-of-Bounds Read) | [128067](https://support.apple.com/en-us/128067), [128071](https://support.apple.com/en-us/128071), [128072](https://support.apple.com/en-us/128072) | - |
 | **CVE-2026-64738** | Apple | **CWE-862** (Missing Authorization) | [128067](https://support.apple.com/en-us/128067), [128071](https://support.apple.com/en-us/128071), [128072](https://support.apple.com/en-us/128072), [148287](https://support.apple.com/en-us/148287) | - |
 | **CVE-2026-43740** | Apple | **CWE-200** (Information Exposure) | [127594](https://support.apple.com/en-us/127594), [127595](https://support.apple.com/en-us/127595), [127685](https://support.apple.com/en-us/127685), [128066](https://support.apple.com/en-us/128066), [128067](https://support.apple.com/en-us/128067), [128068](https://support.apple.com/en-us/128068), [128069](https://support.apple.com/en-us/128069), [128070](https://support.apple.com/en-us/128070), [128073](https://support.apple.com/en-us/128073) | - |
@@ -39,6 +47,7 @@
 
 |Vendor|Platform / Release|Component(s)                                                                                                |Reference                                       |
 |------|------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+|Apple |macOS Golden Gate 27|**AppleArchive** *(Additional recognition)*                                                               |[149035](https://support.apple.com/en-us/149035)|
 |Apple |iOS / iPadOS 26   |**darwinOS**, **libc**, **libpthread**, **libxml2**                                                         |[125108](https://support.apple.com/en-us/125108)|
 |Apple |iOS / iPadOS 18.7 |**libpthread**, **libxml2**                                                                                 |[125109](https://support.apple.com/en-us/125109)|
 |Apple |macOS Tahoe 26    |**AMD**, **Core Bluetooth**, **CoreMedia**, **darwinOS**, **libc**, **libedit**, **libpthread**, **libxml2**|[125110](https://support.apple.com/en-us/125110)|
@@ -47,4 +56,4 @@
 |Apple |tvOS 26           |**darwinOS**, **libc**, **libpthread**, **libxml2**                                                         |[125114](https://support.apple.com/en-us/125114)|
 |Apple |visionOS 26       |**darwinOS**                                                                                                |[125115](https://support.apple.com/en-us/125115)|
 |Apple |watchOS 26        |**darwinOS**, **libc**, **libpthread**, **libxml2**                                                         |[125116](https://support.apple.com/en-us/125116)|
-| Apple | Web Server / February 2026 | **Apple Web Services** | [102774](https://support.apple.com/en-us/102774) |
+|Apple |Web Server / February 2026|**Apple Web Services**                                                                            |[102774](https://support.apple.com/en-us/102774)|
